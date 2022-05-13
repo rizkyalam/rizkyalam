@@ -1,6 +1,8 @@
 ### Hi there, I'm Alam 👋
 
 - 🔭 I’m currently working on **Backend Developer**
-- 🌱 I’m currently learning **DevOps** and **Cyber Security**
+- 🌱 I’m currently learning **Cyber Security**
 - 🛹 I like to play skateboard
-- 📫 You can contact me on instagram: [@rizkyalamz](https://www.instagram.com/rizkyalamz)
+- 📫 Let's connect with me:
+  - Instagram: [@rizkyalamz](https://www.instagram.com/rizkyalamz)
+  - LinkedIn: [Rizky Alamsyah](https://www.linkedin.com/in/rizkyalam/)
